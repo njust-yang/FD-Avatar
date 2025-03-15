@@ -14,3 +14,8 @@ Get high-frequence details(You can modify the image path on line 117 of the code
 ```shell
 python fshift.py
 ```
+
+Training
+```shell
+python main_insta.py data/nerf/wojtek --workspace workspace/wojtek -O --tcnn
+```
