@@ -10,7 +10,7 @@ conda activate FD-avatar
 pip install -r requirements.txt
 sh install.sh
 ```
-Get high-frequence details:
+Get high-frequence details(You can modify the image path on line 117 of the code):
 ```shell
 python fshift.py
 ```
