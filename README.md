@@ -17,5 +17,5 @@ python fshift.py
 
 Training
 ```shell
-python main_insta.py data/nerf/wojtek --workspace workspace/wojtek -O --tcnn
+python train.py data/nerf/wojtek --workspace workspace/wojtek -O --tcnn
 ```
